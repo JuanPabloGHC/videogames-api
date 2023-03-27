@@ -22,8 +22,8 @@ def get_item(id):
         abort(404)
     return jsonify(itemTemp)
 
-@app.route(uri + "/name/<str:name>", methods=['GET'])
-def get_item(name):
+@app.route(uri + "/name/<string:name>", methods=['GET'])
+def get_name(name):
     itemTemp = []
     for item in data:
         if item['name'] == name:
