@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Mario Bross",
+        "autor": "Nintendo",
+        "anio": 1989,
+        "descripcion": "Juego de plataformas"
+    },
+    {
+        "id": 2,
+        "name": "Mario Bross",
+        "autor": "Nintendo",
+        "anio": 1989,
+        "descripcion": "Juego de plataformas"
+    },
+    {
+        "id": 3,
+        "name": "Mario Bross",
+        "autor": "Nintendo",
+        "anio": 1989,
+        "descripcion": "Juego de plataformas"
+    }
+]
