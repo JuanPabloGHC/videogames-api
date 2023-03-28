@@ -3,21 +3,42 @@
         "id": 1,
         "name": "Mario Bross",
         "autor": "Nintendo",
-        "anio": 1989,
-        "descripcion": "Juego de plataformas"
+        "anio": 1981,
+        "descripcion": "El juego describe las aventuras de los hermanos Mario y Luigi, personajes que ya protagonizaron el arcade Mario Bros. de 1983. En esta ocasión ambos deben rescatar a la Princesa Peach del Reino Champiñón que fue secuestrada por el rey de los Koopas, Bowser."
     },
     {
         "id": 2,
-        "name": "Mario Bross",
-        "autor": "Nintendo",
-        "anio": 1989,
-        "descripcion": "Juego de plataformas"
+        "name": "Cuphead",
+        "autor": "MDHR",
+        "anio": 2017,
+        "descripcion": "El juego trata de las aventuras y hazañas de dos hermanos, Mugman y Cuphead, y de todo lo que les sucede después de que pierdan una apuesta contra el diablo. Al perderla, contraen una deuda con dicho personaje. Por eso, tendrán que superar varias pruebas para poder pagarla. Las pruebas consisten en la derrota de diversos jefes, que además deben su alma al diablo."
     },
     {
         "id": 3,
-        "name": "Mario Bross",
-        "autor": "Nintendo",
-        "anio": 1989,
-        "descripcion": "Juego de plataformas"
+        "name": "Need For Speed",
+        "autor": "Activision",
+        "anio": 1994,
+        "descripcion": "La serie se centra en las carreras callejeras ilícitas y, en general, les da el papel a los jugadores de completar varios tipos de carreras, infringiendo en más de una ocasión la ley local en persecuciones policiales. La serie lanzó su primer título, The Need for Speed en 1994. El título proviene de una famosa cita de la película de 1986 Top Gun. Desde Need for Speed: High Stakes, la serie también ha integrado la personalización de los vehículos en el juego."
+    },
+    {
+        "id": 4,
+        "name": "Halo",
+        "autor": "Industries 432",
+        "anio": 2001,
+        "descripcion": "La trama de Halo tiene lugar en el siglo XXVI, período donde el jugador asume el rol del Jefe Maestro, un soldado genéticamente mejorado que es acompañado por Cortana, una inteligencia artificial. A lo largo de la historia, el usuario se enfrenta a varios extraterrestres —tanto en enfrentamientos directos de cuerpo a cuerpo como a bordo de vehículos— en su intento por descubrir los secretos de Halo, un mundo artificial con forma de anillo."
+    },
+    {
+        "id": 5,
+        "name": "ROBLOX",
+        "autor": "Roblox Corporation",
+        "anio": 2006,
+        "descripcion": "Roblox es un sistema de creación de juegos en línea donde la mayoría del contenido es creado por creadores de juegos 'aficionados' en el estudio de Roblox. Estos creadores de juegos pueden crear y publicar juegos para la comunidad utilizando herramientas simples."
+    },
+    {
+        "id": 6,
+        "name": "Minecraft",
+        "autor": "Microsoft",
+        "anio": 2009,
+        "descripcion": "Minecraft es un juego de mundo abierto, y no tiene un fin claramente definido. Esto permite una gran libertad en cuanto a la elección de su forma de jugar. A pesar de ello, el juego posee un sistema que otorga logros por completar ciertas acciones. La cámara es en primera persona, aunque los jugadores tienen la posibilidad de cambiarla a una perspectiva de tercera persona en cualquier momento."
     }
 ]
