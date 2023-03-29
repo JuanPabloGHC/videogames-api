@@ -35,7 +35,7 @@ def get_name(name):
     return jsonify(itemTemp)
 #AUTOR
 @app.route(uri + "/autor/<string:autor>", methods=['GET'])
-def get_anio(autor):
+def get_autor(autor):
     itemTemp=[]
     for item in data:
         if item['autor'] == autor:
